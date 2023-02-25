@@ -1,2 +1,5 @@
 print ("Hello, world!")
-this is a test file
+a = 4
+b = 4
+c = a**b
+print(c)
